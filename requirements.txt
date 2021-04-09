@@ -6,7 +6,7 @@ brotlipy==0.7.0
 certifi==2020.12.5
 cv==1.0.0
 gast==0.3.3
-h5py==2.8.0
+
 itsdangerous==1.1.0
 Keras==2.3.1
 opensource==1.0.2
